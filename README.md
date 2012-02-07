@@ -11,6 +11,16 @@ To install "A Prettified Localhost", just drop the files in the root folder of y
 
 If you have any problems you can [contact me](mailto:ethankr@comcast.net) or [create an issue](http://github.com/ekdevdes/a-pretty-localhost) here on Github.
 
+##Usage
+ 
+**Note:** This script will work with any localhost. But since I am I have a Mac, I will speak specifically to MAMP (Macintosh Apache MySQL and PHP).
+
+Just point your browser to [http://localhost:8888/files.php](http://localhost:8888/files.php)
+
+**Note:** The above link will only work if you actually have your localhost running on port 8888. For **MAMP** users this means that the link will only work when **MAMP** is powered up.
+
+This script will work with any localhost. But since I am I have a Mac, I am speaking specifically to MAMP (Macintosh Apache MySQL and PHP).
+
 ##Contribution
 
 * Fork this repo
