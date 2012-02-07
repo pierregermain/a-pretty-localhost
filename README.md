@@ -9,7 +9,7 @@ A Twitter Bootstrap 2.0 File Lister (its responsive too! Go ahead and try it out
 
 To install "A Prettified Localhost", just drop the files in the root folder of your localhost directory
 
-If you have any problems you can [contact me](mailto:ethankr@comcast.net) or [create an issue](http://github.com/ekdevdes/a-prettified-localhost) here on Github.
+If you have any problems you can [contact me](mailto:ethankr@comcast.net) or [create an issue](http://github.com/ekdevdes/a-pretty-localhost) here on Github.
 
 ##Contribution
 
