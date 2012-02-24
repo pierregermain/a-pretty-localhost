@@ -63,7 +63,7 @@
          for($index=0; $index < $indexCount; $index++) {
                if (substr("$dirArray[$index]", 0, 1) != "."){ // don't list hidden files
 					if (findexts($dirArray[$index]) == strtoupper($dirArray[$index])) {
-						echo "<tr><td><a href='$dirArray[$index]'>$dirArray[$index]</a></td>"."<td> Folder </td>"."<td>".round(filesize($dirArray[$index])/1000,2)." Mb"."</td>"."</tr>\n";
+						echo "<tr><td><a href='$dirArray[$index]'>$dirArray[$index]/</a></td>"."<td> Folder </td>"."<td>".round(filesize($dirArray[$index])/1000,2)." Mb"."</td>"."</tr>\n";
 					}else{
 						echo "<tr><td><a href='$dirArray[$index]'>$dirArray[$index]</a></td>"."<td>".findexts($dirArray[$index])."</td>"."<td>".round(filesize($dirArray[$index])/1000,2)." Mb"."</td>"."</tr>\n";
 					}
