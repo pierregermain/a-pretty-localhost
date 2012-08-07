@@ -1,13 +1,13 @@
-# A Prettified Localhost
+# A Pretty Localhost
 A Twitter Bootstrap 2.0 File Lister (its responsive too! Go ahead and try it out for yourself!). Inspired by [Chris Coyier](http://css-tricks.com) and [this post](http://css-tricks.com/snippets/php/display-styled-directory-contents/) specifically.
 
 ##Preview
-![Preview](http://dl.dropbox.com/u/3478139/preview.png)
+![Preview](http://cl.ly/image/2v2n3e46052W/Screen%20Shot%202012-08-07%20at%2012.10.48%20AM.png)
 
 
 ##Installation
 
-To install "A Prettified Localhost", just drop the files in the root folder of your localhost directory
+To install "A Pretty Localhost", just drop the files in the root folder of your localhost directory
 
 If you have any problems you can [contact me](mailto:ethankr@comcast.net) or [create an issue](http://github.com/ekdevdes/a-pretty-localhost) here on Github.
 
