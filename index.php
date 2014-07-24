@@ -4,6 +4,7 @@
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
    <link rel="stylesheet" href="bootstrap-responsive.min.css">
    <link rel="stylesheet" href="bootstrap.min.css">
+   <link rel='icon' type='image/png' href='/favicon.ico.png' />
    
    <title>Display Directory Contents</title>
    <style>
